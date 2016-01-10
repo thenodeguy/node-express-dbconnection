@@ -3,7 +3,7 @@ A basic and lean recipe for connecting to MongoDB in a node express server.
 
 Requirements
 -
-You will need a running MongoDb daemon.
+You will need a running MongoDB daemon.
 
 To install
 -
