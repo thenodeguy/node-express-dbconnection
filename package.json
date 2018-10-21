@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "ejs": "^2.3.4",
-    "express": "~4.13.1",
-    "mongoose": "^4.3.5"
+    "express": "~4.16.4",
+    "mongoose": "^5.3.4"
   },
   "devDependencies": {},
   "repository": {
